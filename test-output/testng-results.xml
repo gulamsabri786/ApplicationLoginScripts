@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[open app]]>
+    </line>
+    <line>
+      <![CDATA[login app]]>
+    </line>
+    <line>
+      <![CDATA[ creating a user ]]>
+    </line>
+    <line>
+      <![CDATA[logout app]]>
+    </line>
+    <line>
+      <![CDATA[login app]]>
+    </line>
+    <line>
+      <![CDATA[ creating a user ]]>
+    </line>
+    <line>
+      <![CDATA[logout app]]>
+    </line>
+    <line>
+      <![CDATA[login app]]>
+    </line>
+    <line>
+      <![CDATA[ creating a user]]>
+    </line>
+    <line>
+      <![CDATA[logout app]]>
+    </line>
+    <line>
+      <![CDATA[login app]]>
+    </line>
+    <line>
+      <![CDATA[ creating a user]]>
+    </line>
+    <line>
+      <![CDATA[logout app]]>
+    </line>
+    <line>
+      <![CDATA[close app]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+      <class name="testng.Demo1">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="openApp" is-config="true" duration-ms="12" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[open app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="login" is-config="true" duration-ms="1" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[login app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createUser()[pri:1, instance:testng.Demo1@3dfc5fb8]" name="createUser" duration-ms="8" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ creating a user ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="logOut" is-config="true" duration-ms="0" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logout app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="login" is-config="true" duration-ms="1" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[login app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createUser()[pri:1, instance:testng.Demo1@3dfc5fb8]" name="createUser" duration-ms="1" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ creating a user ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="logOut" is-config="true" duration-ms="0" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logout app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="login" is-config="true" duration-ms="1" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[login app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="deleteUser()[pri:2, instance:testng.Demo1@3dfc5fb8]" name="deleteUser" duration-ms="1" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ creating a user]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="logOut" is-config="true" duration-ms="1" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logout app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="deleteUser()[pri:2, instance:testng.Demo1@3dfc5fb8]" name="deleteUser" duration-ms="2" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ creating a user]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="login" is-config="true" duration-ms="0" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[login app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="logOut" is-config="true" duration-ms="0" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logout app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testng.Demo1@3dfc5fb8]" name="closeApp" is-config="true" duration-ms="0" started-at="2018-06-19T05:33:29Z" finished-at="2018-06-19T05:33:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[close app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testng.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
